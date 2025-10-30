@@ -14,3 +14,5 @@ qt外部库,解析excel文件
 ## 生成文件路径
 "D:/CreatedFile.txt"
 ### 更改上述内容后需点击确定保存更改内容
+## 生成格式
+`{SPN,FMI,P-Code,DTCB,"故障"},\n`
